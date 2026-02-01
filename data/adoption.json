@@ -1,0 +1,18 @@
+{
+  "sources": {
+    "moltbook": {
+      "counts": {
+        "bolt11_mentions": 0,
+        "comments_scanned": 0,
+        "lightning_mentions": 0,
+        "lnurl_mentions": 0,
+        "phoenixd_mentions": 0,
+        "posts_scanned": 50,
+        "tipjar_wellknown_mentions": 0
+      },
+      "highlights": [],
+      "window_hours": 24
+    }
+  },
+  "updated_at": "2026-02-01T13:10:50.847048Z"
+}
